@@ -22,7 +22,7 @@ App React Native com TypeScript que consome API pública da Wikipedia para mostr
 
 ```bash
 # Clonar repositório
-git clone https://github.com/SEU-USUARIO/HojeNaHistoria.git
+git clone https://github.com/ClaraMelo72/Hoje_na_Historia.git
 cd HojeNaHistoria
 
 # Instalar dependências
